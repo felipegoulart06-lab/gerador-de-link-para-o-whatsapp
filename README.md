@@ -1,0 +1,1 @@
+# gerador-de-link-para-o-whatsapp
